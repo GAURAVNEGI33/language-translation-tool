@@ -1,4 +1,4 @@
-# internship project
+#Code Alpha Internship Project
 
 
 # 🌐 Language Translation Tool
