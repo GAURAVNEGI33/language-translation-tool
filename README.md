@@ -1,4 +1,4 @@
-#internship project
+# internship project
 
 
 # 🌐 Language Translation Tool
