@@ -5,6 +5,10 @@
 
 A simple web app that translates text between multiple languages in real time. Built using HTML, CSS, and JavaScript only.
 
+## 🚀 Live Demo
+ https://gauravnegi33.github.io/language-translation-tool/
+
+
 ## 📸 Screenshot
 
 
@@ -13,8 +17,6 @@ A simple web app that translates text between multiple languages in real time. B
 <img width="700" height="500" alt="Screenshot_19-6-2026_113739_127 0 0 1" src="https://github.com/user-attachments/assets/c5f5d91b-d295-4f0b-9765-a0331529d2a2" />
 
 
-## 🚀 Live Demo
-[Add your GitHub Pages link here]
 
 ## 📋 Features
 - Translate text between 14 languages
