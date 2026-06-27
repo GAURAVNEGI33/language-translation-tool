@@ -6,7 +6,7 @@
 A simple web app that translates text between multiple languages in real time. Built using HTML, CSS, and JavaScript only.
 
 ## 🚀 Live Demo
- https://gauravnegi33.github.io/language-translation-tool/
+https://gauravnegi33.github.io/codealpha-translation-tool/
 
 
 ## 📸 Screenshot
